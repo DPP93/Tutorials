@@ -1,0 +1,17 @@
+{
+  "name": "nodejsrest",
+  "version": "1.0.0",
+  "description": "Tutorial of REST API in NodeJS prepared by Olatunde Garuba, from: https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd?fbclid=IwAR0HPEuOTa8s6HTiHyfntBFGAYLy-bj4vGcMub9JVnZLQ0rZw2PdLt0faFA. I'm just making this tutorial as excercise - thanks Olatunde :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6",
+    "nodemon": "^1.18.4"
+  }
+}
